@@ -6,6 +6,7 @@ How to make a doc site on GitHub with HackMD
 ```
 title: "My doc site"
 remote_theme: pmarsceill/just-the-docs
+search_enabled: false
 ```
 3. Go to the repo Settings, select `master` for Source in GitHub Pages section
 4. Create a new note on HackMD and write some content
