@@ -1,7 +1,7 @@
 How to make a doc site on GitHub with HackMD
 ===
 
-New content from 2021/9/6
+New content from 2021/9/6, well yes.
 
 1. Create a new repo on GitHub
 2. Create a file in the repo named `_config.yml` with following content:
