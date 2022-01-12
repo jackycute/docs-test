@@ -1,6 +1,8 @@
 How to make a doc site on GitHub with HackMD
 ===
 
+Hello Slack!
+
 New content from 2021/9/6, well yes, another test.
 
 1. Create a new repo on GitHub
