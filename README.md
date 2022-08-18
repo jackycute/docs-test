@@ -1,19 +1,20 @@
-How to make a doc site on GitHub with HackMD
-===
+---
+disqus: aladdin-3
+---
 
-Hello Slack!
+![](https://hackmd.io/_uploads/B1ryHYwn9.png)
 
-New content from 2021/9/6, well yes, another test.
+# Demo hackmd poor label placement
 
-1. Create a new repo on GitHub
-2. Create a file in the repo named `_config.yml` with following content:
+```mermaid
+sequenceDiagram
+M->>N: A
+N->>M: B
 ```
-title: "My doc site"
-remote_theme: pmarsceill/just-the-docs
-search_enabled: false
-```
-3. Go to the repo Settings, select `master` for Source in GitHub Pages section
-4. Create a new note on HackMD and write some content
-5. Go to Versions and select `Push to GitHub`
-6. Select the repo and branch then create a file named `README.md`, click `Push`
-7. Done! Go to your repo's GitHub Pages
+
+well single person writing now will be adaptive.
+
+it's alright!!
+
+sadfkjhgaskfdjgkjhsdfgkjsdkljhalkjfdhlkjhsadf
+asdfasdfkjahsgdkjhdkjalkjshdlkjahslksjdhfalkjsdfhl
